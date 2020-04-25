@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Oscillator.cs" />
     <Compile Include="Assets\RocketController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/liyicky/Google Drive/Code/Training/Unity/RocketBoost/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
